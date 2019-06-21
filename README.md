@@ -1,7 +1,7 @@
 # News-for-connectIQ
 
 Get the latest news right on your watch!
-Link: <add url here>
+Link: [add url here]
 
 This Widget:
     * Has a simple and responsive design
